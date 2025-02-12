@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://iili.io/2mYDEmu.png" alt="so long header krub" width="1200" height="auto" style="align: bottom;"> 
+</h1>
+
 ## Description
 
 Project aimed at creating a 2D game using the **MLX42** library. A system must be designed in which the player can move through a map, collect objects, and reach the exit under certain conditions.
@@ -61,3 +65,6 @@ This project has been a great introduction to 2D game development. In addition t
 
 Design was prioritized before implementation, allowing for a more structured and efficient development. I also had to adjust expectations to deadlines. In the future, the project may evolve or be adapted to other game engines such as **Godot** or **Unity**.
 
+### ⚠️ Disclaimer  
+
+**All image assets used in this project have been entirely created by me. No third-party resources were used.**  
