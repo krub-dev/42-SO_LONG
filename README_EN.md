@@ -2,7 +2,7 @@
 
 Project aimed at creating a 2D game using the **MLX42** library. A system must be designed in which the player can move through a map, collect objects, and reach the exit under certain conditions.
 
-🇪🇸 [Leer en Español](README_ES.md)
+🇪🇸 [Leer en Español](README.md)
 
 <img alt="krub wannabe icon" src="https://iili.io/2maloV1.png">
 
