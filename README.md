@@ -64,3 +64,7 @@ Se usa el algoritmo **Flood Fill/DFS** para verificar que el jugador pueda alcan
 Este proyecto ha sido una gran introducción al desarrollo de videojuegos en 2D. Además de aplicar **MLX42**, se ha trabajado en la validación de mapas, la optimización de gráficos y la interacción con el usuario.
 
 Se ha priorizado el diseño antes de la implementación, permitiendo un desarrollo más estructurado y eficiente. También he tenido que ajustar las espectativas a los tiempos, al deadline. En el futuro, es posible que el proyecto evolucione o se adapte a otros motores gráficos como **Godot** o **Unity**.
+
+### ⚠️ Disclaimer  
+
+**Todos los assets de imagen utilizados en este proyecto han sido creados íntegramente por mí. No se han utilizado recursos de terceros.**  
